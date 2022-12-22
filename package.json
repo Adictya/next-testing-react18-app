@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@appbuilder/react": "file:appbuiler-react-test-pkg.tgz",
+    "@appbuilder/react": "file:appbuilder-react-test-pkg.tgz",
     "next": "13.0.6",
     "react": "18.2.0",
     "react-dom": "18.2.0"
